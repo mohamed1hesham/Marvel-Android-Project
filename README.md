@@ -1,6 +1,6 @@
 <h1> Marvel-Android-Project </h1>
 <br>
-<h2> call data from API and return it </h2>
+<h2> Calling data from API and return it </h2>
 <br>
 <h1>Fetching Data </h1>
 <br>
